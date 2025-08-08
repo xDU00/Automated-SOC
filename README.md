@@ -1,6 +1,6 @@
 # Automated SOC with Open-Source Tools (Wazuh, VirusTotal, DFIR-IRIS, Shuffle)
 
-![Architecture](https://raw.githubusercontent.com/xDU00/blogstuff/refs/heads/main/archblog.png)
+![Architecture]([https://raw.githubusercontent.com/xDU00/blogstuff/refs/heads/main/archblog.png](https://raw.githubusercontent.com/xDU00/blogstuff/refs/heads/main/0_95jwPCsxkDj40Mgo.png))
 
 A next-generation **Security Operations Center (SOC)** built with open-source tools: **Wazuh** (SIEM), **VirusTotal** (threat intelligence), **Shuffle** (SOAR), and **DFIR-IRIS** (incident management). This guide provides a step-by-step setup to automate threat detection, enrichment, and response, tested with a Mimikatz attack scenario.
 
